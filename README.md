@@ -1,18 +1,17 @@
 <!-- ===================================================== -->
-<!--                 CUSTOM PROFILE HEADER                 -->
+<!--                    PREMIUM HEADER                     -->
 <!-- ===================================================== -->
 
 <p align="center">
   <img
-    src="./assets/arpit-header.svg"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=ARPIT%20SRIVASTAV&fontSize=56&fontAlignY=40&fontColor=FFFFFF&animation=twinkling&color=0:050505,25:0B2F26,50:064E3B,75:059669,100:D4AF37"
     width="100%"
-    alt="Arpit Srivastav Profile Header"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=600&size=19&pause=1400&color=D4AF37&center=true&vCenter=true&width=750&lines=ASPIRING+SOFTWARE+ENGINEER;LEARN+%E2%80%A2+BUILD+%E2%80%A2+GROW"
+    src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=700&size=21&pause=1400&color=D4AF37&center=true&vCenter=true&width=800&lines=ASPIRING+SOFTWARE+ENGINEER;PYTHON+%7C+HTML+%7C+CSS+%7C+JAVASCRIPT;LEARN+%E2%80%A2+BUILD+%E2%80%A2+GROW"
     alt="Typing Animation"
   />
 </p>
@@ -57,23 +56,23 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/PYTHON-064E3B?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Python-064E3B?style=for-the-badge&logo=python&logoColor=D4AF37"/>
 
-<img src="https://img.shields.io/badge/HTML5-064E3B?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/HTML5-064E3B?style=for-the-badge&logo=html5&logoColor=D4AF37"/>
 
-<img src="https://img.shields.io/badge/CSS3-065F46?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CSS3-065F46?style=for-the-badge&logo=css3&logoColor=D4AF37"/>
 
-<img src="https://img.shields.io/badge/JAVASCRIPT-059669?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/JavaScript-059669?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/GIT-064E3B?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Git-064E3B?style=for-the-badge&logo=git&logoColor=D4AF37"/>
 
-<img src="https://img.shields.io/badge/GITHUB-030712?style=for-the-badge&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=D4AF37"/>
 
-<img src="https://img.shields.io/badge/CI%2FCD-059669?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CI%2FCD-059669?style=for-the-badge&logo=githubactions&logoColor=FFFFFF"/>
 
 </p>
 
@@ -86,11 +85,90 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">Hand Tracker</h3>
+### Hand Tracker
+
+Real-time hand tracking and gesture recognition project built using:
+
+**Python • OpenCV • MediaPipe**
+
+<br>
+
+<a href="https://github.com/srivastav-arpit/hand-tracker">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-059669?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Face Detect
+
+Real-time face detection project built using:
+
+**Python • OpenCV • MediaPipe**
+
+<br>
+
+<a href="https://github.com/srivastav-arpit/face-detect">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-D4AF37?style=for-the-badge&logo=github&logoColor=111111"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Currently Learning
 
 <p align="center">
-Real-time hand tracking and gesture recognition system built using Python, OpenCV and MediaPipe.
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=600&size=18&pause=1200&color=10B981&center=true&vCenter=true&width=750&lines=Improving+Python;Learning+Web+Development;Practicing+JavaScript;Learning+Git+%26+CI%2FCD;Building+Real+World+Projects"
+    alt="Currently Learning"
+  />
+</p>
+
+---
+
+## Career Goal
+
+<p align="center">
+
+**To start my career as a Software Engineer, continuously improve my skills, build meaningful projects, and grow as a professional developer.**
+
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/srivastav-arpit">
+<img src="https://img.shields.io/badge/GITHUB-030712?style=for-the-badge&logo=github&logoColor=D4AF37"/>
+</a>
+
+<a href="mailto:sriarpit20@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-059669?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=600&size=18&pause=1600&color=D4AF37&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Growing"
+  alt="Footer Animation"
+/>
+
 </p>
 
 <p align="center">
-<a href
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=twinkling&color=0:D4AF37,30:059669,60:064E3B,100:050505"
+    width="100%"
+  />
+</p>
