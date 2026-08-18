@@ -1,5 +1,5 @@
 <!-- ===================================================== -->
-<!--              PREMIUM ANIMATED HEADER                  -->
+<!--                 PREMIUM ANIMATED HEADER               -->
 <!-- ===================================================== -->
 
 <p align="center">
@@ -9,18 +9,12 @@
   />
 </p>
 
-<!-- GOLDEN GLOW LINE -->
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=700&size=22&pause=1400&color=D4AF37&center=true&vCenter=true&width=850&lines=ASPIRING+SOFTWARE+ENGINEER;PYTHON+%7C+HTML+%7C+CSS+%7C+JAVASCRIPT;LEARN+%E2%80%A2+BUILD+%E2%80%A2+GROW"
     alt="Typing Animation"
   />
 </p>
-
-<!-- ===================================================== -->
-<!--                 PROFILE VIEWS                         -->
-<!-- ===================================================== -->
 
 <p align="center">
   <img
@@ -60,17 +54,25 @@
 
 ## Tech Stack
 
-### Programming Language
+<p align="center">
 
-**Python**
+<img src="https://img.shields.io/badge/Python-064E3B?style=for-the-badge&logo=python&logoColor=D4AF37"/>
 
-### Web Development
+<img src="https://img.shields.io/badge/HTML5-064E3B?style=for-the-badge&logo=html5&logoColor=D4AF37"/>
 
-**HTML • CSS • JavaScript**
+<img src="https://img.shields.io/badge/CSS3-065F46?style=for-the-badge&logo=css3&logoColor=D4AF37"/>
 
-### Tools & Technologies
+<img src="https://img.shields.io/badge/JavaScript-059669?style=for-the-badge&logo=javascript&logoColor=D4AF37"/>
 
-**Git • GitHub • CI/CD**
+<br><br>
+
+<img src="https://img.shields.io/badge/Git-064E3B?style=for-the-badge&logo=git&logoColor=D4AF37"/>
+
+<img src="https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=D4AF37"/>
+
+<img src="https://img.shields.io/badge/CI%2FCD-059669?style=for-the-badge&logo=githubactions&logoColor=D4AF37"/>
+
+</p>
 
 ---
 
@@ -154,7 +156,7 @@ Real-time face detection project using:
 ---
 
 <!-- ===================================================== -->
-<!--                    FOOTER                              -->
+<!--                    ANIMATED FOOTER                    -->
 <!-- ===================================================== -->
 
 <p align="center">
