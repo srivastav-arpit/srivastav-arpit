@@ -1,17 +1,17 @@
-<!-- ===================================================== -->
-<!--                 PREMIUM ANIMATED HEADER               -->
-<!-- ===================================================== -->
+<!-- ========================================================= -->
+<!--                 PREMIUM PROFILE HEADER                    -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=ARPIT%20SRIVASTAV&fontSize=58&fontAlignY=38&fontColor=FFFFFF&animation=twinkling&color=0:030712,20:031C17,45:064E3B,70:059669,88:B8860B,100:D4AF37"
+    src="https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=ARPIT%20SRIVASTAV&fontSize=56&fontColor=FFFFFF&fontAlignY=42&stroke=059669&strokeWidth=2&animation=twinkling&color=0:030712,30:052E2B,60:065F46,85:059669,100:D4AF37"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=700&size=22&pause=1400&color=D4AF37&center=true&vCenter=true&width=850&lines=ASPIRING+SOFTWARE+ENGINEER;PYTHON+%7C+HTML+%7C+CSS+%7C+JAVASCRIPT;LEARN+%E2%80%A2+BUILD+%E2%80%A2+GROW"
+    src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=700&size=21&pause=1400&color=D4AF37&center=true&vCenter=true&width=850&lines=ASPIRING+SOFTWARE+ENGINEER;PYTHON+%7C+HTML+%7C+CSS+%7C+JAVASCRIPT;LEARN+%E2%80%A2+BUILD+%E2%80%A2+GROW"
     alt="Typing Animation"
   />
 </p>
@@ -25,7 +25,7 @@
 
 ---
 
-## Hi, I'm Arpit Srivastav
+# Hi, I'm Arpit Srivastav
 
 <p align="center">
   <strong>Aspiring Software Engineer</strong>
@@ -33,7 +33,7 @@
 
 <p align="center">
   Passionate about programming, learning new technologies,
-  building projects and solving problems with code.
+  building practical projects and solving problems with code.
 </p>
 
 ---
@@ -42,11 +42,11 @@
 
 - 🎓 Completed **Master of Arts in 2026**
 - 💻 Aspiring **Software Engineer**
-- 🐍 Learning and improving my **Python** skills
-- 🌐 Interested in **Web Development**
-- 🚀 Enjoy building practical projects
-- 🌱 Continuously learning new technologies
-- 🧠 Interested in programming and problem solving
+- 🌱 Continuously learning and improving my technical skills
+- 🐍 Currently working with **Python**
+- 🌐 Learning and building with **Web Development**
+- 🚀 Interested in building practical projects
+- 🧠 Enjoy solving problems through code
 - 🏏 Hobby: Playing Cricket
 - 📫 Email: **sriarpit20@gmail.com**
 
@@ -62,15 +62,17 @@
 
 <img src="https://img.shields.io/badge/CSS3-065F46?style=for-the-badge&logo=css3&logoColor=D4AF37"/>
 
-<img src="https://img.shields.io/badge/JavaScript-059669?style=for-the-badge&logo=javascript&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/JavaScript-059669?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
 
-<br><br>
+</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Git-064E3B?style=for-the-badge&logo=git&logoColor=D4AF37"/>
 
 <img src="https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=D4AF37"/>
 
-<img src="https://img.shields.io/badge/CI%2FCD-059669?style=for-the-badge&logo=githubactions&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/CI%2FCD-059669?style=for-the-badge&logo=githubactions&logoColor=FFFFFF"/>
 
 </p>
 
@@ -83,33 +85,33 @@
 
 <td width="50%" valign="top">
 
-### Hand Tracker
+<h3 align="center">Hand Tracker</h3>
 
-Real-time hand tracking and gesture recognition project built using:
+<p align="center">
+Real-time hand tracking and gesture recognition system built using Python, OpenCV and MediaPipe.
+</p>
 
-**Python • OpenCV • MediaPipe**
-
-<br>
-
+<p align="center">
 <a href="https://github.com/srivastav-arpit/hand-tracker">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-059669?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Face Detect
+<h3 align="center">Face Detect</h3>
 
-Real-time face detection project using:
+<p align="center">
+Real-time face detection system using Python, OpenCV and MediaPipe.
+</p>
 
-**Python • OpenCV • MediaPipe**
-
-<br>
-
+<p align="center">
 <a href="https://github.com/srivastav-arpit/face-detect">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-D4AF37?style=for-the-badge&logo=github&logoColor=111111"/>
 </a>
+</p>
 
 </td>
 
@@ -122,7 +124,7 @@ Real-time face detection project using:
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=500&size=18&pause=1100&color=10B981&center=true&vCenter=true&width=750&lines=Improving+Python;Learning+Web+Development;Practicing+JavaScript;Learning+Git+%26+CI%2FCD;Building+Real+World+Projects"
+    src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=600&size=18&pause=1100&color=10B981&center=true&vCenter=true&width=750&lines=Improving+Python;Learning+Web+Development;Practicing+JavaScript;Learning+Git+%26+CI%2FCD;Building+Real+World+Projects"
     alt="Currently Learning"
   />
 </p>
@@ -133,7 +135,7 @@ Real-time face detection project using:
 
 <p align="center">
 
-> **To start my career as a Software Engineer, continuously improve my skills, build meaningful projects, and grow as a professional developer.**
+**To start my career as a Software Engineer, continuously improve my skills, build meaningful projects, and grow as a professional developer.**
 
 </p>
 
@@ -148,16 +150,12 @@ Real-time face detection project using:
 </a>
 
 <a href="mailto:sriarpit20@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-059669?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-059669?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 </p>
 
 ---
-
-<!-- ===================================================== -->
-<!--                    ANIMATED FOOTER                    -->
-<!-- ===================================================== -->
 
 <p align="center">
   <img
@@ -168,7 +166,7 @@ Real-time face detection project using:
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&animation=twinkling&color=0:D4AF37,20:B8860B,45:059669,70:064E3B,100:030712"
+    src="https://capsule-render.vercel.app/api?type=venom&height=170&section=footer&animation=twinkling&color=0:D4AF37,25:059669,55:065F46,80:052E2B,100:030712"
     width="100%"
   />
 </p>
