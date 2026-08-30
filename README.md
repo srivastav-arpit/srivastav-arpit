@@ -39,8 +39,7 @@
 ## 🧑‍💻 About Me
 
 - 💻 Aspiring **Software Engineer**
-- 🐍 Currently learning and improving **Python**
-- 🌐 Interested in **Web Development**
+- 🐍 Currently learning and improving **Skills**
 - 🚀 Enjoy building practical projects
 - 🧠 Interested in programming and problem solving
 - 📚 Continuously learning new technologies
